@@ -9,5 +9,7 @@ int main(){
     
     std::cin >> idade;
     
+    std::cout << "Mais um teste\n";
+
     return 0;
 }
